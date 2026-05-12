@@ -43,7 +43,7 @@ Pero no todo en mi vida es código. Cuando me desconecto de los editores, mi rut
   <a href="https://github.com/JEJS-IA97" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://discord.com/users/TU_USUARIO_DE_DISCORD" target="_blank">
+  <a href="https://discord.com/users/jejs8519" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 <br>
