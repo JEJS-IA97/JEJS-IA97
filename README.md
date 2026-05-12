@@ -1,7 +1,7 @@
 <div align="center">
   <h1><b>¡Hola! Soy Jose Eduardo 👋</b></h1>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=100&color=00FFCC&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer;Frontend+Developer" alt="Typing effect" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=2000&color=00FFCC&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer;Frontend+Developer" alt="Typing effect" />
   </p>
 </div>
 
