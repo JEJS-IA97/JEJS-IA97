@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy Jose Eduardo 👋</h1>
 
-<!--
-**JEJS-IA97/JEJS-IA97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">QA Automation Engineer | Frontend Developer | Graphic Designer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>"Asegurando la calidad del código, diseñando experiencias de usuario limpias y construyendo soluciones robustas."</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Sobre mí
+
+- 🐛 Especializado en pruebas automatizadas E2E, integraciones de API y en asegurar que todo funcione a la perfección antes de salir a producción.
+- 💻 Como desarrollador Frontend y diseñador, me enfoco en crear interfaces visualmente atractivas y con excelente UX.
+- 🚀 Experiencia gestionando operaciones de negocio y reportes en entornos como Odoo 19.0+e Enterprise.
+- 📚 Siempre en continuo aprendizaje, mejorando mis habilidades técnicas y creativas día a día.
+- 🎮 En mi tiempo libre, lo más probable es que me encuentres jugando eFootball, League of Legends o explorando Hogwarts Legacy.
+
+### 🛠️ Mi Caja de Herramientas (Toolbox)
+
+**QA & Automation:** ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**Frontend, UI/UX & Backend Tools:** ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+### 🚀 Proyectos Destacados
+
+- 💬 **Real-time Chat App:** Plataforma de mensajería construida con React y Socket.io, que incluye perfiles de usuario y búsqueda dinámica.
+- 📈 **Financial Tracker MVP:** Aplicación diseñada para el seguimiento de inflación y saldos multi-moneda.
+- 👾 **Pokedex Web:** Aplicación interactiva construida con Vite y JavaScript.
+- 💳 **Suite de Pruebas E2E:** Flujos automatizados en Postman para validación de tokens y esquemas de integración de pagos.
+
+---
+
+### 📫 Conectemos
+
+<p align="left">
+<a href="TU_LINK_DE_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
