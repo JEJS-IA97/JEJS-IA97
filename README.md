@@ -12,7 +12,6 @@
 
 - 🐛 Especializado en pruebas automatizadas E2E, integraciones de API y en asegurar que todo funcione a la perfección antes de salir a producción.
 - 💻 Como desarrollador Frontend y diseñador, me enfoco en crear interfaces visualmente atractivas y con excelente UX.
-- 🚀 Experiencia gestionando operaciones de negocio y reportes en entornos como Odoo 19.0+e Enterprise.
 - 📚 Siempre en continuo aprendizaje, mejorando mis habilidades técnicas y creativas día a día.
 - 🎮 En mi tiempo libre, lo más probable es que me encuentres jugando eFootball, League of Legends o explorando Hogwarts Legacy.
 
