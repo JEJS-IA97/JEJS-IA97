@@ -2,10 +2,6 @@
 
 <h3 align="center">QA Automation Engineer | Frontend Developer | Graphic Designer</h3>
 
-<p align="center">
-  <i>"Asegurando la calidad del código, diseñando experiencias de usuario limpias y construyendo soluciones robustas."</i>
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mí
@@ -27,7 +23,7 @@
 
 **Frontend & Backend Tools: ** 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Javascript-blue?logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=white)
