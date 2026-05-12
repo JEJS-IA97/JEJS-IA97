@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Jose Eduardo 👋</h1>
+<h1 align="center">¡Hola! Soy Jose Eduardo</h1>
 <h3 align="center">QA Automation Engineer | Frontend Developer | Graphic Designer</h3>
 
 ---
@@ -47,6 +47,8 @@ Pero no todo en mi vida es código. Cuando me desconecto de los editores, mi rut
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 <br>
+
+---
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=JEJS-IA97&theme=radical" alt="GitHub Streak" />
