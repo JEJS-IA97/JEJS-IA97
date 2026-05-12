@@ -13,7 +13,7 @@
 
 ### 🛠️ Mi Caja de Herramientas (Toolbox)
 
-**QA & Automation: ** 
+## QA & Automation:
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
@@ -21,7 +21,7 @@
 ![Appium](https://img.shields.io/badge/-Appium-662D91?style=flat&logo=appium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
-**Frontend & Backend Tools: ** 
+## Frontend & Backend Tools:
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-Javascript-blue?logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -30,7 +30,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-**UI/UX Tools: ** 
+## UI/UX Tools:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=white)
